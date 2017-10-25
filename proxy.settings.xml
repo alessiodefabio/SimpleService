@@ -1,0 +1,8 @@
+<application>
+  <component name="HttpConfigurable">
+    <option name="PROXY_HOST" value="proxy.aen.ansaldo.it" />
+    <option name="PROXY_PORT" value="8013" />
+    <option name="USE_PAC_URL" value="true" />
+    <option name="PAC_URL" value="https://portal.threatpulse.com/pac" />
+  </component>
+</application>
