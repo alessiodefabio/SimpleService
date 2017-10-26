@@ -1,2 +1,0 @@
-# simpleService
-Study Rest Service
